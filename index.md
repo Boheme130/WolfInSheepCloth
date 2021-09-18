@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Wolf in Sheep’s Clothing
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/WolfInSheepCloth/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://cdn2.oceansbridge.com/2017/09/02064026/Autumn-Scene-in-the-North-Carolina-Mountains-William-Aiken-Walker-oil-painting.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+作品：Wolf in Sheep’s Clothing
+作者：Charlie Adhara <br/>
+评分：4.75/5 <br/>
+大量发糖❤️情侣活动，侦探悬疑，HE <br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+狼中之王的Oliver在加拿大当着家族的面，宣誓库博才是自己的“王”(Alpha)。两人感情进一步发展并决定同居，但回到华盛顿后的同居却是另一个问题。库博不愿Oliver一直照顾自己，更不愿让富有的男友为两人同居买下豪宅，两人经济地位的失衡让库博对情感的走向倍感失落。
 
-# Header 1
-## Header 2
-### Header 3
+一个意外的任务让两人暂时脱离房子的争吵，库博和Oliver将以一对夫夫的身份，暗中前往北卡一所狼人伴侣情感治疗所调查一名失踪狼人的案件。一系列夫夫活动弄得库博喘不过气：登山旷野，狼人按摩，心理咨询，AQ测试，按摩浴缸，情侣拥抱，看似温馨的活动背后是精心设计的圈套。死亡的阴影不断降临，一个又一个员工不断消失或死亡。
 
-- Bulleted
-- List
+库博感到自己不断失态失常，他感到身体不受自己的控制，但却无法找到原因。治疗所似乎隐藏着经营人不为人知的家族秘密，疯狂的狼人生物学家和科学实验，狼人之间刻入基因的习性让库博和Oliver处于危险之中。而南方最有势力的狼人家族公子带着他的拉丁狼人男友意外来到了度假所，Oliver是东北部和加拿大狼人家族的头号人物，一南一北两对情侣和首领爆发了冲突。库博在调查的过程中对自己和Oliver的感情产生了顿悟，他决定求婚。
 
-1. Numbered
-2. List
+经过了前面三本书，Oliver终于放下了心结。在这本书里，库博第一次和狼形态的Oliver亲密接触❤️🤍💙在华盛顿公寓里库博轻轻抚摸了狼形态Oliver的脖子，他的这个举动触动了Oliver，因为狼形态的Oliver在以往都是作为他家族的狩猎者去和其他人厮杀争夺权力，但库博是第一个会在他变成狼时对他温柔的人。两人在华盛顿的公寓里泡澡，库博搓着人形Oliver的头发把他的头发搓成两只小狼耳真的萌爆了。不过全书两人相处的一个小高潮还是库博掉进河后晚上发烧畏冷，Oliver变成狼形用自己的毛给库博取暖。由于治疗所本身就是给狼人用的，里面的很多情侣活动都有狼人元素，从第二第三部对狼人的生活小细节讳莫如深到第四部Oliver面对库博对自己狼人identity的真诚开放，可以看出库博现在真的走进Oliver的心里让他放下最大的一道戒备了
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/WolfInSheepCloth/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+看到Oliver在自己面前被枪杀以为Oliver快死了的时候，库博蹦出的所有意识流最后只变成了一句哭声"我们回家吧"，库博那一刻意识到他只想和Oliver生活在一起，买什么房子都不重要了。结尾库博对Oliver求婚了，他求婚的地点完全出乎我的意料，大家喜欢可以去看。
